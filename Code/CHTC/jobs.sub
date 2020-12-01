@@ -1,0 +1,13 @@
+executable=r.sh
+arguments=TSLA.csv $(file)
+transfer_input_files=http://proxy.chtc.wisc.edu/SQUID/chtc/R402.tar.gz, hw6.R, TSLA.csv, $(file).tgz
+
+log=log/$(Cluster)_$(Process).log
+error=error/$(Cluster)_$(Process).err
+output=output/$(Cluster)_$(Process).out
+
+request_cpus=1
+request_memory=1GB
+request_disk=1GB
+
+queue file from filelist5

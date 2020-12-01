@@ -1,0 +1,39 @@
+000 (217317.075.000) 2020-11-28 19:35:07 Job submitted from host: <128.104.100.148:9618?addrs=128.104.100.148-9618+[2607-f388-107c-501-216-3eff-feb2-bc11]-9618&alias=learn.chtc.wisc.edu&noUDP&sock=schedd_2128_35a0>
+...
+040 (217317.075.000) 2020-11-28 19:37:45 Started transferring input files
+	Transferring to host: <128.104.58.84:9618?addrs=128.104.58.84-9618+[2607-f388-1086-0-a6ba-dbff-fe38-e75f]-9618&alias=e074.chtc.wisc.edu&noUDP&sock=slot1_13_10768_c7af_39398>
+...
+040 (217317.075.000) 2020-11-28 19:37:48 Finished transferring input files
+...
+001 (217317.075.000) 2020-11-28 19:37:49 Job executing on host: <128.104.58.84:9618?addrs=128.104.58.84-9618+[2607-f388-1086-0-a6ba-dbff-fe38-e75f]-9618&alias=e074.chtc.wisc.edu&noUDP&sock=startd_4523_faf2>
+...
+006 (217317.075.000) 2020-11-28 19:37:58 Image size of job updated: 78592
+	77  -  MemoryUsage of job (MB)
+	78592  -  ResidentSetSize of job (KB)
+...
+006 (217317.075.000) 2020-11-28 19:39:26 Image size of job updated: 116152
+	114  -  MemoryUsage of job (MB)
+	116152  -  ResidentSetSize of job (KB)
+...
+040 (217317.075.000) 2020-11-28 19:39:26 Started transferring output files
+...
+040 (217317.075.000) 2020-11-28 19:39:26 Finished transferring output files
+...
+005 (217317.075.000) 2020-11-28 19:39:26 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:01:23, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:01:23, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	2382  -  Run Bytes Sent By Job
+	3274238  -  Run Bytes Received By Job
+	2382  -  Total Bytes Sent By Job
+	3274238  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :                 1         1 
+	   Disk (KB)            :   157929  1048576   3638221 
+	   IoHeavy              :                           0 
+	   Memory (MB)          :      114     1024      1024 
+
+	Job terminated of its own accord at 2020-11-29T01:39:26Z.
+...

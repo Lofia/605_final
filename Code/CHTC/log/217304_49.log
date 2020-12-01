@@ -1,0 +1,39 @@
+000 (217304.049.000) 2020-11-28 18:02:57 Job submitted from host: <128.104.100.148:9618?addrs=128.104.100.148-9618+[2607-f388-107c-501-216-3eff-feb2-bc11]-9618&alias=learn.chtc.wisc.edu&noUDP&sock=schedd_2128_35a0>
+...
+040 (217304.049.000) 2020-11-28 18:04:39 Started transferring input files
+	Transferring to host: <128.104.58.188:9618?addrs=128.104.58.188-9618+[2607-f388-1086-0-16fe-b5ff-fec6-6fc7]-9618&alias=e1043.chtc.wisc.edu&noUDP&sock=slot1_38_37153_6640_41606>
+...
+040 (217304.049.000) 2020-11-28 18:04:46 Finished transferring input files
+...
+001 (217304.049.000) 2020-11-28 18:04:47 Job executing on host: <128.104.58.188:9618?addrs=128.104.58.188-9618+[2607-f388-1086-0-16fe-b5ff-fec6-6fc7]-9618&alias=e1043.chtc.wisc.edu&noUDP&sock=startd_5231_9c00>
+...
+006 (217304.049.000) 2020-11-28 18:04:55 Image size of job updated: 191084
+	187  -  MemoryUsage of job (MB)
+	191084  -  ResidentSetSize of job (KB)
+...
+006 (217304.049.000) 2020-11-28 18:06:06 Image size of job updated: 191084
+	188  -  MemoryUsage of job (MB)
+	191592  -  ResidentSetSize of job (KB)
+...
+040 (217304.049.000) 2020-11-28 18:06:07 Started transferring output files
+...
+040 (217304.049.000) 2020-11-28 18:06:07 Finished transferring output files
+...
+005 (217304.049.000) 2020-11-28 18:06:07 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:01:12, Sys 0 00:00:01  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:01:12, Sys 0 00:00:01  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	2218  -  Run Bytes Sent By Job
+	2747424  -  Run Bytes Received By Job
+	2218  -  Total Bytes Sent By Job
+	2747424  -  Total Bytes Received By Job
+	Partitionable Resources :     Usage  Request Allocated 
+	   Cpus                 :      0.99        1         1 
+	   Disk (KB)            : 154961     1048576   1332408 
+	   IoHeavy              :                            0 
+	   Memory (MB)          :    188        1024      1024 
+
+	Job terminated of its own accord at 2020-11-29T00:06:06Z.
+...
